@@ -1,0 +1,152 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3">
+  <diagram name="Página-1" id="tl7_LOopRHeeWI0jEE_o">
+    <mxGraphModel dx="983" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-4" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio&lt;div&gt;(Rotina mensal)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-11" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verificar cadastro do cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="320.0000000000001" as="sourcePoint" />
+            <mxPoint x="255" y="320.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-17" connectable="0" parent="KSq-hSdNZ3Gf84QvFARO-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.0253" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-19" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-20" connectable="0" parent="KSq-hSdNZ3Gf84QvFARO-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0828" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;span&gt;Consultar cadastro&lt;/span&gt;&lt;br&gt;&lt;span&gt;do colaborador&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="344" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-60" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ignorar fluxo" vertex="1">
+          <mxGeometry height="60" width="120" x="134" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-22" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Identificar colaboradores elegiveis" vertex="1">
+          <mxGeometry height="60" width="120" x="574" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-27" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Consultar cadastro&lt;br&gt;do colaborador" vertex="1">
+          <mxGeometry height="60" width="120" x="574" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-29" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-30" connectable="0" parent="KSq-hSdNZ3Gf84QvFARO-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1854" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-34" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-35" connectable="0" parent="KSq-hSdNZ3Gf84QvFARO-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0441" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="valor de adiantamento definido?" vertex="1">
+          <mxGeometry height="100" width="140" x="344" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-59" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KSq-hSdNZ3Gf84QvFARO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Não processar adiantamento" vertex="1">
+          <mxGeometry height="60" width="120" x="134" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-37" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-33" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&amp;nbsp;Validar situação do colaborador:&lt;div&gt;• ativo?&lt;br&gt;                    • sem afastamento?&lt;br&gt;                    • sem rescisão em andamento?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="354" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-41" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-42" connectable="0" parent="KSq-hSdNZ3Gf84QvFARO-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1157" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-44" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Colaborador apto?" vertex="1">
+          <mxGeometry height="100" width="140" x="343" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-58" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="KSq-hSdNZ3Gf84QvFARO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Não incluir no processamento" vertex="1">
+          <mxGeometry height="60" width="120" x="133" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-46" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-43" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Gerar lista de adiantamento&lt;div&gt;(Conforme cadastro)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="573" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-48" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Conferência interna DP&lt;br/&gt;(valores x quantidade x cliente)" vertex="1">
+          <mxGeometry height="60" width="120" x="573" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-50" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-47" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Aprovação (se aplicável)" vertex="1">
+          <mxGeometry height="60" width="120" x="573" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-55" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KSq-hSdNZ3Gf84QvFARO-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-49" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Enviar para financeiro&lt;br&gt;ou cliente realizar pagamento" vertex="1">
+          <mxGeometry height="60" width="120" x="573" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="373" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-57" edge="1" parent="1" source="KSq-hSdNZ3Gf84QvFARO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSq-hSdNZ3Gf84QvFARO-54" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Anexar o recibo na pasta do cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="573" y="1390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
