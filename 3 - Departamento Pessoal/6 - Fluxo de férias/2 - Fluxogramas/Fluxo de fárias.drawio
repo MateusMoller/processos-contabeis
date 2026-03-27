@@ -1,0 +1,235 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Página-1" id="0iH7uqFqxkNNEkBU8Hng">
+    <mxGraphModel dx="815" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DMLLw0t0FS6vrnqFt761-3" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio&lt;div&gt;(Controle de férias)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-5" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-2" parent="1" style="whiteSpace=wrap;html=1;" value="Monitorar período aquisitivo dos colaboradores" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-8" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-9" connectable="0" parent="DMLLw0t0FS6vrnqFt761-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0602" y="2" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-11" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-12" connectable="0" parent="DMLLw0t0FS6vrnqFt761-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1394" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Possui férias por vencer?" vertex="1">
+          <mxGeometry height="80" width="126" x="351" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-15" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-7" parent="1" style="whiteSpace=wrap;html=1;" value="Identificar o saldo de férias e período disponível" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-13" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="DMLLw0t0FS6vrnqFt761-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-10" parent="1" style="whiteSpace=wrap;html=1;" value="Manter acompanhamento periódico" vertex="1">
+          <mxGeometry height="60" width="120" x="148" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-17" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-14" parent="1" style="whiteSpace=wrap;html=1;" value="Definir programação de férias com empregador" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-19" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-20" connectable="0" parent="DMLLw0t0FS6vrnqFt761-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1119" y="-1" as="geometry">
+            <mxPoint x="-4" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-23" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-30" connectable="0" parent="DMLLw0t0FS6vrnqFt761-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2623" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Período de férias foi aprovado pelo empregador?" vertex="1">
+          <mxGeometry height="80" width="126" x="351" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-21" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="DMLLw0t0FS6vrnqFt761-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="370" />
+              <mxPoint x="620" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-18" parent="1" style="whiteSpace=wrap;html=1;" value="Aguardar definição do empregador" vertex="1">
+          <mxGeometry height="60" width="120" x="148" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-25" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-22" parent="1" style="whiteSpace=wrap;html=1;" value="Solicitar/confirmar ciência do colaborador" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-28" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-29" connectable="0" parent="DMLLw0t0FS6vrnqFt761-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0499" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-45" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DMLLw0t0FS6vrnqFt761-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-46" connectable="0" parent="DMLLw0t0FS6vrnqFt761-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.2036" y="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Há solicitação de abono pecuniário?" vertex="1">
+          <mxGeometry height="80" width="126" x="351" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-35" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-27" parent="1" style="whiteSpace=wrap;html=1;" value="Validar prazo legal da solicitação" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-38" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-39" connectable="0" parent="DMLLw0t0FS6vrnqFt761-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1133" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-41" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-42" connectable="0" parent="DMLLw0t0FS6vrnqFt761-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="0.0171" y="3" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Solicitação está dentro do prazo?" vertex="1">
+          <mxGeometry height="80" width="126" x="557" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-37" parent="1" style="whiteSpace=wrap;html=1;" value="Registrar impossibilidade de abono e seguir sem venda" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-44" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-40" parent="1" style="whiteSpace=wrap;html=1;" value="Incluir abono pecuniário no calculo" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-48" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-43" parent="1" style="whiteSpace=wrap;html=1;" value="Calcular férias" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-50" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-47" parent="1" style="whiteSpace=wrap;html=1;" value="Emitir recibo de férias&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-54" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-55" connectable="0" parent="DMLLw0t0FS6vrnqFt761-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.167" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-57" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-59" connectable="0" parent="DMLLw0t0FS6vrnqFt761-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.1771" y="-3" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-49" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Solicitação está dentro do prazo?" vertex="1">
+          <mxGeometry height="80" width="126" x="351" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-58" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DMLLw0t0FS6vrnqFt761-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-53" parent="1" style="whiteSpace=wrap;html=1;" value="Registrar divergência e ajustar programação /pagamento" vertex="1">
+          <mxGeometry height="60" width="120" x="148" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-61" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-56" parent="1" style="whiteSpace=wrap;html=1;" value="Enviar documentos para conferência" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-63" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-60" parent="1" style="whiteSpace=wrap;html=1;" value="Conferir cálculo e dados cadastrais" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-65" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-69" connectable="0" parent="DMLLw0t0FS6vrnqFt761-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.0361" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-67" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DMLLw0t0FS6vrnqFt761-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-68" connectable="0" parent="DMLLw0t0FS6vrnqFt761-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2358" y="3" as="geometry">
+            <mxPoint x="-9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-62" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Há divergencias?&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="126" x="351" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-72" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DMLLw0t0FS6vrnqFt761-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-64" parent="1" style="whiteSpace=wrap;html=1;" value="Liberar pagamenros das férias" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-70" edge="1" parent="1" source="DMLLw0t0FS6vrnqFt761-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="DMLLw0t0FS6vrnqFt761-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-66" parent="1" style="whiteSpace=wrap;html=1;" value="Corrigir cálculo/datas/eventos" vertex="1">
+          <mxGeometry height="60" width="120" x="148" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="DMLLw0t0FS6vrnqFt761-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="FIm" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="1600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

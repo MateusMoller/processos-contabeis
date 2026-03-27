@@ -1,0 +1,209 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="kmMmNCJ9KalVb4TivwXY">
+    <mxGraphModel dx="983" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vk2eIERqolI8mWohrdrw-88" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-90" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-87" parent="1" style="whiteSpace=wrap;html=1;" value="Finalização da folha de pagamento" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-93" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-96" connectable="0" parent="Vk2eIERqolI8mWohrdrw-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1294" y="2" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-95" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-97" connectable="0" parent="Vk2eIERqolI8mWohrdrw-95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="0.0118" y="3" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-91" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Eventos foram lançados corretamente?" vertex="1">
+          <mxGeometry height="90" width="130" x="349" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-100" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Vk2eIERqolI8mWohrdrw-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-92" parent="1" style="whiteSpace=wrap;html=1;" value="Validar base de cálculo" vertex="1">
+          <mxGeometry height="60" width="120" x="144" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-99" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Vk2eIERqolI8mWohrdrw-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-94" parent="1" style="whiteSpace=wrap;html=1;" value="ajustar lançamentos&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Folha / Eventos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-102" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-101" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conferir reminerações e bases de encargos" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-104" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-106" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-107" connectable="0" parent="Vk2eIERqolI8mWohrdrw-106" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2269" y="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-101" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Bases estão corretas?  " vertex="1">
+          <mxGeometry height="90" width="130" x="349" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-108" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Vk2eIERqolI8mWohrdrw-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-103" parent="1" style="whiteSpace=wrap;html=1;" value="Corrigir inconsistências" vertex="1">
+          <mxGeometry height="60" width="120" x="144" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-110" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-105" parent="1" style="whiteSpace=wrap;html=1;" value="Gerar encargos&lt;div&gt;(INSS / FGTS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-117" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-109" parent="1" style="whiteSpace=wrap;html=1;" value="Transmitir eventos ao eSocial" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-115" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-114" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-118" connectable="0" parent="Vk2eIERqolI8mWohrdrw-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1686" y="3" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-120" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-121" connectable="0" parent="Vk2eIERqolI8mWohrdrw-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0933" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-113" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Bases estão corretas?  " vertex="1">
+          <mxGeometry height="90" width="130" x="349" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-116" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-114" parent="1" style="whiteSpace=wrap;html=1;" value="Corrigir erros no eSocial / Folha" vertex="1">
+          <mxGeometry height="60" width="120" x="144" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-123" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-119" parent="1" style="whiteSpace=wrap;html=1;" value="&amp;nbsp;Conferir débitos e créditos" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-126" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-125" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-129" connectable="0" parent="Vk2eIERqolI8mWohrdrw-126" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.2627" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-128" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-127" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-130" connectable="0" parent="Vk2eIERqolI8mWohrdrw-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.1686" y="-1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-124" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Valores corrertos?" vertex="1">
+          <mxGeometry height="90" width="130" x="349" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-131" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Vk2eIERqolI8mWohrdrw-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-125" parent="1" style="whiteSpace=wrap;html=1;" value="Corrigir base e reenviar informações" vertex="1">
+          <mxGeometry height="60" width="120" x="144" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-133" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-132" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-127" parent="1" style="whiteSpace=wrap;html=1;" value="Emitir guia de INSS&amp;nbsp;&lt;div&gt;(DARF / DCTFweb)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-135" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-132" parent="1" style="whiteSpace=wrap;html=1;" value="Emitir guia FGTS" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-139" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-134" parent="1" style="whiteSpace=wrap;html=1;" value="&amp;nbsp;Conferir vencimentos&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-141" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-140" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-142" connectable="0" parent="Vk2eIERqolI8mWohrdrw-141" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.2146" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-145" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-144" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-146" connectable="0" parent="Vk2eIERqolI8mWohrdrw-145" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.3002" y="-1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-138" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Guias corretas?" vertex="1">
+          <mxGeometry height="90" width="130" x="349" y="1265" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-143" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-140" parent="1" style="whiteSpace=wrap;html=1;" value="Ajustar e reemitir guias" vertex="1">
+          <mxGeometry height="60" width="120" x="144" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-148" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-144" parent="1" style="whiteSpace=wrap;html=1;" value="Enviar para o cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-150" edge="1" parent="1" source="Vk2eIERqolI8mWohrdrw-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Vk2eIERqolI8mWohrdrw-149" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-147" parent="1" style="whiteSpace=wrap;html=1;" value="Arquivar documentos&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk2eIERqolI8mWohrdrw-149" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="1714" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
